@@ -1,7 +1,7 @@
 # Iterative-Mahine-Teaching-AML-Class
 
 
-in advanced machine learning class (computer science Universitas Indonesia), I was asked to choose one paper from international conference on machine learning (ICML) in 2017. I chose paper iterative machine teaching [liu et al]. Then surpise I was told to implement what is in the paper that I choose.
+in advanced machine learning class (computer science Universitas Indonesia), I was asked to choose one paper from international conference on machine learning (ICML) in 2017. I chose paper iterative machine teaching [liu et al]. Then surprise I was told to implement what is in the paper that I choose.
 
 iterative machine teaching is a new paradigm that utilizes traditional machine teaching. while machine teaching itself is an inverse problem of machine learning, which is looking for optimum set of data to produce a model similar to the original.
 
